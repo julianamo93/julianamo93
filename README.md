@@ -40,3 +40,5 @@ Neste primeiro ano na FIAP, estou desenvolvendo um Projeto Desafio para a SalesF
 
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=footer"/>
+
+![Snake animation](https://github.com/anaduart/anaduart/blob/output/github-contribution-grid-snake.svg)
