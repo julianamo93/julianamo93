@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AC4FF7&random=false&width=435&lines=Welcome+to+my+GitHub!;I'm+Software+Developer;I'm+Data+Engineer;I'm+Systems+Analysis+student)](https://git.io/typing-svg)
 
-Eu sou a Juliana Mo, uma estudante de Desenvolvimento de Software apaixonada por Back-End - e atualmente me apaixonando por Dados e Back-End. Iniciei minha trajetória em maio/2023, e decidi que seria uma boa opção profissionalizar ainda mais meus estudos com uma graduação em tecnologia. Então, em agosto/2023, iniciei minha jornada no curso de Análise e Desenvolvimento de Sistemas na FIAP. 
+Eu sou a Juliana Mo, uma estudante de Desenvolvimento de Software apaixonada por Back-End - e atualmente me apaixonando por Dados. Iniciei minha trajetória em maio/2023, e decidi que seria uma boa opção profissionalizar ainda mais meus estudos com uma graduação em tecnologia. Então, em agosto/2023, iniciei minha jornada no curso de Análise e Desenvolvimento de Sistemas na FIAP. 
 
 ## 🚀 Expertise:
 
