@@ -4,7 +4,7 @@ Eu sou a Juliana Mo, uma estudante de Desenvolvimento de Software apaixonada por
 
 ## 🚀 Expertise:
 
-Neste primeiro ano na FIAP, estou desenvolvendo um Projeto Desafio para a SalesForce, utilizando de todos os ensinamentos desse primeiro semestre (AI & Chatbot, Building Relational Database, Computational Thinking Using Python, Domain Driven Design, Responsive Web Development e Software Design & Total Experience). Minhas linguagens favoritas é Java e C# e estou buscando aprofundar meus conhecimentos cada vez mais. Com a descoberta da área de Análise de Dados, estou ampliando meus conhecimentos em Python, SQL, Dataviz e PowerBI. Também estou criando projetos pessoais para estudo e ampliação dos meus conhecimentos. 
+Neste primeiro ano na FIAP, estou desenvolvendo um Projeto Desafio para a SalesForce, utilizando de todos os ensinamentos desse primeiro semestre (AI & Chatbot, Building Relational Database, Computational Thinking Using Python, Domain Driven Design, Responsive Web Development e Software Design & Total Experience). Minhas linguagens favoritas são Java e C# e estou buscando aprofundar meus conhecimentos cada vez mais. Com a descoberta da área de Análise de Dados, estou ampliando meus conhecimentos em Python, SQL, Dataviz e PowerBI. Também estou criando projetos pessoais para estudo e ampliação dos meus conhecimentos. 
 
 ## 💻 Tech Stack:
 
