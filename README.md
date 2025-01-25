@@ -6,6 +6,8 @@
 
 No primeiro ano na FIAP, desenvolvi um Projeto Desafio para a SalesForce, utilizando de todos os ensinamentos do primeiro e segundo semestre (AI & Chatbot, Building Relational Database, Computational Thinking Using Python, Domain Driven Design, Responsive Web Development e Software Design & Total Experience). Neste segundo ano, estou desenvolvendo mais um Projeto Desafio, dessa vez para a ODONTOPREV, onde estou aplicando na prática o Cloud Computing e Arquiteturas Disrruptivas com IA e Machine Learning, avançando nos ensinamentos do último semestre (Mastering Relational & Non-Relational Database, Java Advanced, Disruptives Architectures: IOT, IOB & Gen AI, Mobile Application, Devops Tools & Cloud Computing e Compliance, QA & Tests). As linguagens que mais utilizo são Python e Java. Atualmente, estou ampliando meus conhecimentos em Python, PySpark, AWS, DataLake, SQL, Excel e PowerBI, visando a carreira em Engenharia de Dados.  
 
+No meu estágio em Analytics no Banco Safra pude colocar em prática no dia-a-dia o uso de ferramentas como SQL Server, Excel, Power BI, PySpark e Cloudera, realizando consultas, criando macros, participando da migração de SQL para Cloud em AWS dentro do Cloudera, além de também poder conhecer um pouco da parte de negócio e sistemas financeiros do produto Cartões. Diariamente, realizo ETLs, crio consultas, gero dados para subir em bases e atualizo macros, trabalhando também no desenvolvimento de melhorias nas rotinas e fechamentos.
+
 ## 💻 Tech Stack:
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
