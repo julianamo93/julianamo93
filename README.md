@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AC4FF7&random=false&width=435&lines=Bem-vindo+ao+meu+GitHub!;Pós-graduanda+de+Engenharia+de+Dados;Data+Engineer+Pl;)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AC4FF7&random=false&width=435&lines=Bem-vindo+ao+meu+GitHub!;Pós-graduanda+em+Engenharia+de+Dados;Data+Engineer+Pl;)](https://git.io/typing-svg)
 
   Eu sou a Juliana Mo Kinoshita, uma estudante de Desenvolvimento de Software apaixonada por Engenharia de Dados. Iniciei minha trajetória em maio/2023, e decidi que seria uma boa opção profissionalizar ainda mais meus estudos com uma graduação em tecnologia. Então, em agosto/2023, iniciei minha jornada no curso de Análise e Desenvolvimento de Sistemas na FIAP, Atualmente sou graduada em Análise e Desenvolvimento de Sistemas, vou iniciar minha Pós-tech em Machine Learning Engineering e sou Engenheira de Dados Pleno na NTT DATA Europe & Latam. 
 
